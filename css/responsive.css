@@ -1,6 +1,11 @@
-head
+#logo h2 {
+  font-size: 2.2em;
+}
 
 
-@media only screen and (max-width:768px) {
-    [class*="col-"] {
-        width: 100%;
+}
+logo H2 {
+  font-size: 2.2em;
+}
+
+#social {
