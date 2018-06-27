@@ -1,11 +1,14 @@
+@media only screen and (max-width:1100px)
 
-
-
+#logo h1 {
+  width:35px;
+  height:35px;
+  
+}
 
 #logo h2 {
   font-size: 2.2em;
 }
-
 
 }
 logo H2 {
@@ -15,3 +18,4 @@ logo H2 {
 #social {
   top:72px;
 }
+.col
